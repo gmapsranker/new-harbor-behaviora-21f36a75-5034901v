@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://gmapsranker.github.io/new-harbor-behaviora-21f36a75-5034901v/sitemap.xml
-Sitemap: https://new-harbor-behaviora-21f36a75-5034901v.pages.dev/sitemap.xml
